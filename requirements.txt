@@ -3,3 +3,4 @@ numpy
 pandas
 scipy >= 1.6
 seaborn
+sklearn
